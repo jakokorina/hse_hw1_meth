@@ -18,8 +18,16 @@
 
 ### 2.e
 
+Строим графики:
+
+![alt](./screenshots/example.png)
+
+Графики:
+
 ![alt](./screenshots/graph8cell.png)
 ![alt](./screenshots/graphepi.png)
 ![alt](./screenshots/graphicm.png)
 
 ### 2.f
+
+
