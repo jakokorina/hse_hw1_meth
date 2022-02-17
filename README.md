@@ -30,4 +30,7 @@
 
 ### 2.f
 
+Митилирование и покрытие:
 
+![alt](./screenshots/image_myth.png)
+![alt](./screenshots/image_cov.png)
