@@ -9,6 +9,7 @@
 ### 2.b
 
 ![alt](./screenshots/task2b.png)
+
 (Доп. балл: скрипт находится в /scr/script.sh)
 
 ### 2.c
