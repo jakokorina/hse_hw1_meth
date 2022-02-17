@@ -3,9 +3,12 @@
 
 ## Part 2
 ### 2.a
+
 ![alt](./screenshots/task2a.png)
+
 ### 2.b
 
+![alt](./screenshots/task2b.png)
 (Доп. балл: скрипт находится в /scr/script.sh)
 
 ### 2.c
