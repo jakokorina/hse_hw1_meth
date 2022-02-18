@@ -16,6 +16,13 @@
 
 Отчеты в папке /reports
 
+#### 8 cell
+![alt](./screenshots/m-bias-8cell.png)
+#### Epiblast
+![alt](./screenshots/m-bias-epi.png)
+#### ICM
+![alt](./screenshots/m-bias-ICM.png)
+
 ### 2.e
 
 Строим графики:
