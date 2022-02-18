@@ -14,7 +14,7 @@
 
 ### 2.d
 
-Отчеты в папке reports. Все кривые примерно одинаковые во всех образцах, кроме CPG: в 8 cell их \approx 45%, в epiblast \approx 75%
+Отчеты в папке reports. Все кривые примерно одинаковые во всех образцах, кроме CPG: в 8 cell их ~ 45%, в epiblast ~ 75%, в ICM ~ 25%.
 
 #### 8 cell
 ![alt](./screenshots/m-bias-8cell.png)
