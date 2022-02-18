@@ -1,4 +1,6 @@
 # hse_hw1_meth
+
+Ссылка на колаб: https://colab.research.google.com/drive/1PRxvZXX11e-ll9xuho3jLrw4qTf-RNVn?usp=sharing
 ## Part 1
 
 ## Part 2
