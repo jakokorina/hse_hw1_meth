@@ -16,6 +16,13 @@
 
 
 
+<p float="left">
+  <img src="/screenshots/rna_msq.png" width="400" />
+  <img src="/screenshots/8cell_msq.png" width="400" />
+  <img src="/screenshots/epi_msq.png" width="400" />
+  <img src="/screenshots/icm_msq.png" width="400" />
+</p>
+
 
 ## Part 2
 ### 2.a
