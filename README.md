@@ -26,6 +26,15 @@
   <img src="/screenshots/icm_msq.png" width="400" />
 </p>
 
+#### Sequence content
+
+
+<p float="left">
+  <img src="/screenshots/rna_sq.png" width="400" />
+  <img src="/screenshots/8cell_sq.png" width="400" />
+  <img src="/screenshots/epi_sq.png" width="400" />
+  <img src="/screenshots/icm_sq.png" width="400" />
+</p>
 
 ## Part 2
 ### 2.a
