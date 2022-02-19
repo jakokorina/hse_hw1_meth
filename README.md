@@ -5,12 +5,16 @@
 
 Отчеты в папке fastq. 1 картинка - rNA-seq мыши из 3-ДЗ, 2 картинка - 8cell, 3 картинка - Epiblast, 4 картинка - ICM.
 
+У rNA мыши процент GC ± в 2 раза больше чем у метиллированияю.
+
 <p float="left">
   <img src="/screenshots/rna_stat.png" width="400" />
   <img src="/screenshots/8cell_stat.png" width="400" />
   <img src="/screenshots/epi_stat.png" width="400" />
   <img src="/screenshots/icm_stat.png" width="400" />
 </p>
+
+
 
 
 ## Part 2
