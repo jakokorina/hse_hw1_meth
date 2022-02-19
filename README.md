@@ -5,6 +5,7 @@
 
 Отчеты в папке fastq. 1 картинка - rNA-seq мыши из 3-ДЗ, 2 картинка - 8cell, 3 картинка - Epiblast, 4 картинка - ICM.
 
+#### GC
 У rNA мыши процент GC ± в 2 раза больше чем у метиллированияю.
 
 <p float="left">
@@ -14,7 +15,9 @@
   <img src="/screenshots/icm_stat.png" width="400" />
 </p>
 
+#### Sequence quality scores
 
+У метиллирования в конце секвенирования падает quality score, в отличие от rNA.
 
 <p float="left">
   <img src="/screenshots/rna_msq.png" width="400" />
