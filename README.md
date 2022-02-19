@@ -3,6 +3,16 @@
 Ссылка на колаб: https://colab.research.google.com/drive/1PRxvZXX11e-ll9xuho3jLrw4qTf-RNVn?usp=sharing
 ## Part 1
 
+Отчеты в папке fastq. 1 картинка - rNA-seq мыши из 3-ДЗ, 2 картинка - 8cell, 3 картинка - Epiblast, 4 картинка - ICM.
+
+<p float="left">
+  <img src="/screenshots/rna_stat.png" width="400" />
+  <img src="/screenshots/8cell_stat.png" width="400" />
+  <img src="/screenshots/epi_stat.png" width="400" />
+  <img src="/screenshots/icm_stat.png" width="400" />
+</p>
+
+
 ## Part 2
 ### 2.a
 
